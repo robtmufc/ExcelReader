@@ -1,11 +1,3 @@
-/**********************************************************************.
- *                                                                     *
- *         Copyright (c) Ultra Electronics Airport Systems 2018     *
- *                         All rights reserved                         *
- *                                                                     *
- ***********************************************************************/
-
-
 import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
 import org.apache.poi.ss.usermodel.*;
 import java.io.File;
@@ -14,7 +6,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 
 public class ApachePOIExcelRead {
-  public static final String SAMPLE_XLSX_FILE_PATH = "C:\\source\\ExcelReader\\ReadSheets\\src\\test\\resources\\JavaInterfaceMapping.xls";
+  public static final String SAMPLE_XLSX_FILE_PATH = "path_to_file";
 
   public static void main(String[] args) throws IOException, InvalidFormatException {
 
