@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelReader.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelReader_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelReader_main.iml" group="ExcelReader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelReader_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelReader_test.iml" group="ExcelReader" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReadSheets.iml" filepath="$PROJECT_DIR$/.idea/modules/ReadSheets.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReadSheets_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ReadSheets_main.iml" group="ReadSheets" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ReadSheets_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ReadSheets_test.iml" group="ReadSheets" />
+    </modules>
+  </component>
+</project>
